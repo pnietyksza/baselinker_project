@@ -1,0 +1,16 @@
+{
+    "name": "patryk/baselinker_project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Baselinker\\": "src/Baselinker"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk",
+            "email": "patryk.nietyksza@gmail.com"
+        }
+    ],
+    "require": {}
+}
